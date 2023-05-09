@@ -1,0 +1,59 @@
+.Header1 {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    color: rgb(#f0f8ff);
+}
+.Header2 {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url(https://wallpaperaccess.com/full/1363090.jpg);
+    font-size: 20px;
+    display:flex
+}
+.img1{
+
+    border: solid 20px;
+}
+.div7{
+    font-family: 'Courier New', Courier, monospace;
+}
+.DivS1{
+    display: flex;
+}
+.DivS2{
+    display: flex;
+}
+.DivS3{
+    display: flex;
+}
+.DivS4{
+    display: flex;
+}
+.DivS5{
+    display: flex;
+}
+.DivS6{
+    display: flex;
+}
+.DivS7{
+    display: flex;
+}
+.DivS8{
+    display: flex;
+}
+.DivS9{
+    display: flex;
+}
+.DivS10{
+    display: flex;
+}
+.DivS11{
+    display: flex;
+}
+.DivS12{
+    display: flex;
+}
+.divF{
+    display: flex;
+    justify-content: center;
+}
